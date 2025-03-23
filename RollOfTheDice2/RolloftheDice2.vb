@@ -12,7 +12,6 @@ Public Class RolloftheDice2
         Dim woag As String = ""
         Dim header As String = ""
         Dim width As Integer = 6
-        Dim textStuff As String
         Dim heading() As String = {"2 |", "3 |", "4 |", "5 |", "6 |", "7 |", "8 |", "9 |", "10 |", "11 |", "12 |"}
         Dim headingBase As String = ""
 
