@@ -2,7 +2,7 @@
 'Spring 2025
 'RCET2265
 'RolloftheDice
-'https://github.com/TheGoldenPorkchop/RolloftheDice
+'https://github.com/TheGoldenPorkchop/RolloftheDice2
 Option Strict On
 Option Explicit On
 
